@@ -1,0 +1,16 @@
+$primaryColor:hsl(180, 29%, 50%);
+$secondaryColor:hsl(180, 8%, 52%);
+$tertiaryColor:hsl(180, 14%, 20%);
+
+$backgroundPrimary:hsl(180, 52%, 96%);
+$backgroundSecondary: hsl(180, 31%, 95%);
+
+$fontStack:'League Spartan', sans-serif;
+$fontSize:62.5%;
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: $fontStack;
+    font-size: $fontSize;
+}
